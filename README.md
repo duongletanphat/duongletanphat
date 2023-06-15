@@ -1,6 +1,6 @@
 <!-- phatduong -->
 <a href="#" target="_blank">
-  <img src="svg/phatduong.svg" width="1200" alt="phatduong-official" />
+  <img src="svg/phatduongdev.svg" width="1200" alt="phatduong-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
